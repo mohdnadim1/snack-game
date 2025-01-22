@@ -131,10 +131,4 @@ TikVid/
 
 ---
 
-### Next Steps
-If you want, I can:
-1. **Generate boilerplate code** for backend and frontend.
-2. **Design a README.md** with project details.
-3. **Expand the roadmap** with detailed milestones. 
 
-Let me know where you'd like to start!
